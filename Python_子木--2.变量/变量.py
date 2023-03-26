@@ -1,0 +1,9 @@
+#变量名，赋值运算符，值
+name='玛利亚'
+#一个变量包括--
+#标识--表示对象的内存地址，可使用id(name)获取
+print(id(name))
+#类型--对象数据类型，可用type(name)获取
+print(type(name))
+#值--对象
+print(name)
